@@ -1,0 +1,20 @@
+NET "clk" LOC = "V10";
+NET "test_clk" LOC = "D9";
+
+NET "start" LOC = "V9";
+NET "enable" LOC = "T9";
+NET "rst" LOC = "T10";
+
+NET "select_y[3]" LOC = "T5";
+NET "select_y[2]" LOC = "V8";
+NET "select_y[1]" LOC = "U8";
+NET "select_y[0]" LOC = "N8";
+
+NET "y[7]" LOC = "T11";
+NET "y[6]" LOC = "R11";
+NET "y[5]" LOC = "N11";
+NET "y[4]" LOC = "M11";
+NET "y[3]" LOC = "V15";
+NET "y[2]" LOC = "U15";
+NET "y[1]" LOC = "V16";
+NET "y[0]" LOC = "U16";
